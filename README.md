@@ -41,9 +41,8 @@ The plugin uses the following custom field values to determine the meta tag cont
 
 ## Installation
 
-1. Upload the plugin files to the `/wp-content/plugins/robots-meta-settings/` directory or install it directly through the WordPress plugins screen.
-2. Activate the plugin through the 'Plugins' screen in WordPress.
-3. Add a custom field `robots_meta_settings` to any post or page and set its value to one of the options listed above.
+1. Upload the plugin files to the `/wp-content/mu-plugins/robots-meta-settings/` directory.
+2. Add a custom field `robots_meta_settings` to any post or page and set its value to one of the options listed above.
 
 ## Code Overview
 
